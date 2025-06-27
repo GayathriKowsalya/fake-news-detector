@@ -119,3 +119,4 @@ A big thanks to the creators of the datasets and all the Python libraries used i
 
 Final Thoughts
 This project was a great way to apply machine learning and NLP to a real-world problem. Fake news detection has the potential to improve the way we interact with information online. I’m excited to keep improving this model and see where it can go!
+For dataset ref https://drive.google.com/drive/folders/1OMaQcddYw6DNnxfCDg8ajD3JK007hPZ1?usp=sharingdaa 
